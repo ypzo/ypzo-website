@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700");
 
 :root {
-    --clr-neon: hsl(0 92% 35%);
+    --clr-neon: hsl(0, 90%, 50%);
     --clr-bg: hsl(323 21% 16%);
   }
   * {
